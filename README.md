@@ -19,7 +19,7 @@ This application consumed the API from <a href="https://reqres.in">Reqres In</a>
 Request :
 
 - Method : GET
-- Endpoint : `/api/users`
+- Endpoint : `/users`
 - Query Param:
   - page: integer
   - per_page: integer
@@ -43,7 +43,5 @@ Response :
   "support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}
 }
 ```
-
-## RESULT
 
 
