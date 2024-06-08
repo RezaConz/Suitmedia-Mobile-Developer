@@ -22,6 +22,7 @@ Request :
 - Endpoint : `/api/users`
 - Query Param:
   - page: integer
+  - per_page: integer
 
 Response :
 
