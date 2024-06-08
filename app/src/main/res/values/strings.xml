@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">testportal</string>
+    <string name="btn_check">CHECK</string>
+    <string name="btn_next">NEXT</string>
+    <string name="name">Name</string>
+    <string name="palindrome">Palindrome</string>
+    <string name="second_screen">Second Screen</string>
+    <string name="welcome">Welcome</string>
+    <string name="test_name">John Doe</string>
+    <string name="selected_user_name">Selected User Name</string>
+    <string name="choose_a_user">Choose a User</string>
+    <string name="third_screen">Third Screen</string>
+    <string name="test_name_item">Firstname Lastname</string>
+    <string name="test_email_item">email@email.com</string>
+    <string name="user_name_format">%1$s %2$s</string>
+    <string name="error">Error</string>
+    <string name="retry">Try again</string>
+</resources>
